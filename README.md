@@ -1,7 +1,7 @@
 # Kickstarting with Excel
-Analysis of Kickstarter funding using Excel
+An Analysis of Kickstarter Campaigns
 ## Overview of Project
-
+Description of Project
 ### Purpose
 
 ## Analysis and Challenges
